@@ -31,7 +31,7 @@ Follow the instructions on the project pages. **It is recommended to configure E
 
 Running
 -----
-Start the server by running `node main.js` or `coffee main.coffee` if Coffeescript ist installed globally.
+Start the server by running `node main.js` or `coffee main.coffee` if Coffeescript is installed globally.
 
 Using
 -----
